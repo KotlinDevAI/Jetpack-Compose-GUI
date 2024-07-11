@@ -14,3 +14,7 @@ https://developer.android.com/courses/jetpack-compose/course
 # IDE
 ## Android Studio
 guide: [Tools for Compose](https://developer.android.com/develop/ui/compose/tooling)
+
+# Form Factor:
+## Desktop
+guide: https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-getting-started.html
