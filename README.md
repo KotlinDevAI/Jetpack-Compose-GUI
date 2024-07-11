@@ -5,7 +5,7 @@ sch: https://www.google.com/search?q=Jetpack+Compose https://www.google.com/sear
 ## Android
 https://developer.android.com/develop/ui/compose
 
-## Kotlin
+## Kotlin Compose Multiplatform
 https://www.jetbrains.com/lp/compose-multiplatform/
 
 # Course:
