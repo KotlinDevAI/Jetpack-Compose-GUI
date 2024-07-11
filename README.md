@@ -7,3 +7,10 @@ https://developer.android.com/develop/ui/compose
 
 ## Kotlin
 https://www.jetbrains.com/lp/compose-multiplatform/
+
+# Course:
+https://developer.android.com/courses/jetpack-compose/course
+
+# IDE
+## Android Studio
+guide: [Tools for Compose](https://developer.android.com/develop/ui/compose/tooling)
